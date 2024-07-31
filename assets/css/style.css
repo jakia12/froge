@@ -3118,7 +3118,7 @@ textarea.form-control {
 
 .bg-dark {
     --gen-bg-opacity: 1;
-    background-color: rgba(var(--gen-dark-rgb), var(--gen-bg-opacity)) !important;
+    /* background-color: rgba(var(--gen-dark-rgb), var(--gen-bg-opacity)) !important; */
 }
 
 .bg-white {
